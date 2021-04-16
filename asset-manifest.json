@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monster-directory/static/css/main.b2008976.chunk.css",
+    "main.js": "/monster-directory/static/js/main.5b14040e.chunk.js",
+    "main.js.map": "/monster-directory/static/js/main.5b14040e.chunk.js.map",
+    "runtime-main.js": "/monster-directory/static/js/runtime-main.c9707dec.js",
+    "runtime-main.js.map": "/monster-directory/static/js/runtime-main.c9707dec.js.map",
+    "static/js/2.47d3de12.chunk.js": "/monster-directory/static/js/2.47d3de12.chunk.js",
+    "static/js/2.47d3de12.chunk.js.map": "/monster-directory/static/js/2.47d3de12.chunk.js.map",
+    "static/js/3.9db938e1.chunk.js": "/monster-directory/static/js/3.9db938e1.chunk.js",
+    "static/js/3.9db938e1.chunk.js.map": "/monster-directory/static/js/3.9db938e1.chunk.js.map",
+    "index.html": "/monster-directory/index.html",
+    "static/css/main.b2008976.chunk.css.map": "/monster-directory/static/css/main.b2008976.chunk.css.map",
+    "static/js/2.47d3de12.chunk.js.LICENSE.txt": "/monster-directory/static/js/2.47d3de12.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/monster-directory/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9707dec.js",
+    "static/js/2.47d3de12.chunk.js",
+    "static/css/main.b2008976.chunk.css",
+    "static/js/main.5b14040e.chunk.js"
+  ]
+}
